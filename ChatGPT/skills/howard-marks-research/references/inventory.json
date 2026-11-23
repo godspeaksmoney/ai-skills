@@ -1,0 +1,837 @@
+[
+  {
+    "date": "1990-10-12",
+    "title": "The Route to Performance",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1990-10-12-the-route-to-performance.pdf?sfvrsn=33bc0f65_6"
+  },
+  {
+    "date": "1991-04-11",
+    "title": "First Quarter Performance",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1991-04-11-first-quarter-client-performance.pdf?sfvrsn=d7bd0f65_6"
+  },
+  {
+    "date": "1992-10-08",
+    "title": "Microeconomics 101: Supply, Demand and Convertibles",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1992-10-08-microeconomics.pdf?sfvrsn=43bc0f65_6"
+  },
+  {
+    "date": "1993-02-15",
+    "title": "The Value of Predictions, or Where'd All This Rain Come From?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1993-02-15-the-value-of-predictions-or-where-39-d-all-this-rain-come-from.pdf?sfvrsn=6fbc0f65_6"
+  },
+  {
+    "date": "1994-01-24",
+    "title": "Random Thoughts on the Identification of Investment Opportunities",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1994-01-24-random-thoughts-on-the-identification-of-inv-opportunities.pdf?sfvrsn=17bc0f65_6"
+  },
+  {
+    "date": "1994-02-17",
+    "title": "Risk in Today's Markets",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1994-02-17-risk-in-todays-markets.pdf?sfvrsn=dfbd0f65_6"
+  },
+  {
+    "date": "1994-04-11",
+    "title": "\"Risk in Today's Markets\" Revisited",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1994-04-11-risk-in-todays-markets-revisted.pdf?sfvrsn=2bbc0f65_6"
+  },
+  {
+    "date": "1994-07-15",
+    "title": "\"How Does an Inefficient Market Get That Way?\"",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1994-07-15-how-does-an-inefficient-market-get-that-way.pdf?sfvrsn=dbbd0f65_6"
+  },
+  {
+    "date": "1995-05-26",
+    "title": "How the Game Should Be Played",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1995-05-26-how-the-game-should-be-played.pdf?sfvrsn=d3bd0f65_6"
+  },
+  {
+    "date": "1996-07-22",
+    "title": "The Value of Predictions II (or \"Give That Man a Cigar\")",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1996-07-22-the-value-of-predictions-ii-or-give-that-man-a-cigar.pdf?sfvrsn=27bc0f65_8"
+  },
+  {
+    "date": "1996-11-25",
+    "title": "Will It Be Different This Time?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1996-11-25-will-it-be-different-this-time.pdf?sfvrsn=23bc0f65_6"
+  },
+  {
+    "date": "1997-09-03",
+    "title": "Are You An Investor or a Speculator?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/are-you-an-investor-or-a-speculator.pdf?sfvrsn=1e37cf65_2"
+  },
+  {
+    "date": "1998-01-08",
+    "title": "Who Knew?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1998-01-08-who-knew.pdf?sfvrsn=2fbc0f65_6"
+  },
+  {
+    "date": "1998-10-09",
+    "title": "Genius Isn't Enough (and Other Lessons from Long-Term Capital Management)",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1998-10-09-genius-isn-39-t-enough.pdf?sfvrsn=eac20f65_6"
+  },
+  {
+    "date": "1999-04-15",
+    "title": "How's the Market?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/1999-04-15-hows-the-market.pdf?sfvrsn=3fbc0f65_6"
+  },
+  {
+    "date": "2000-01-02",
+    "title": "bubble.com",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2000-01-02-bubble.pdf?sfvrsn=37bc0f65_5"
+  },
+  {
+    "date": "2000-05-01",
+    "title": "Irrational Exuberance",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2000-05-01-irrational-exuberance.pdf?sfvrsn=cfbc0f65_6"
+  },
+  {
+    "date": "2000-11-16",
+    "title": "Investment Miscellany",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2000-11-16-investment-miscellany.pdf?sfvrsn=1fbc0f65_6"
+  },
+  {
+    "date": "2000-12-31",
+    "title": "We're Not In 1999 Anymore, Toto",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2000-12-31-were-not-in-1999-anymore.pdf?sfvrsn=3bbc0f65_6"
+  },
+  {
+    "date": "2001-04-10",
+    "title": "Safety First . . . But Where?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2001-04-10-safety-first-but-where.pdf?sfvrsn=49c10f65_8"
+  },
+  {
+    "date": "2001-07-11",
+    "title": "What's It All About, Alpha?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2001-07-11-whats-it-all-about-alpha.pdf?sfvrsn=13bc0f65_6"
+  },
+  {
+    "date": "2001-09-16",
+    "title": "Notes from New York",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2001-09-16-notes-from-ny.pdf?sfvrsn=fbc0f65_6"
+  },
+  {
+    "date": "2001-10-04",
+    "title": "What Lies Ahead?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2001-10-04-what-lies-ahead.pdf?sfvrsn=bbc0f65_6"
+  },
+  {
+    "date": "2001-11-20",
+    "title": "You Can't Predict. You Can Prepare.",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2001-11-20-you-cant-predict-you-can-prepare.pdf?sfvrsn=bc00f65_6"
+  },
+  {
+    "date": "2002-03-14",
+    "title": "Learning From Enron",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2002-03-14-learning-from-enron.pdf?sfvrsn=77bc0f65_6"
+  },
+  {
+    "date": "2002-05-31",
+    "title": "The Realist's Creed",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2002-05-31-the-realists-creed.pdf?sfvrsn=1bbc0f65_5"
+  },
+  {
+    "date": "2002-07-26",
+    "title": "Quo Vadis?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2002-07-26-quo-vadis.pdf?sfvrsn=67bc0f65_6"
+  },
+  {
+    "date": "2002-09-04",
+    "title": "Etorre's Wisdom",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2002-09-04-etorres-wisdom.pdf?sfvrsn=63bc0f65_6"
+  },
+  {
+    "date": "2002-11-11",
+    "title": "Returns and How They Get That Way",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2002-11-11-returns-and-how-they-get-that-way.pdf?sfvrsn=4fbc0f65_8"
+  },
+  {
+    "date": "2003-03-11",
+    "title": "Whad\u2019Ya Know?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2003-03-11-whad-ya-know.pdf?sfvrsn=abbc0f65_6"
+  },
+  {
+    "date": "2003-05-06",
+    "title": "What's Going On?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2003-05-16-whats-going-on.pdf?sfvrsn=73bc0f65_6"
+  },
+  {
+    "date": "2003-07-01",
+    "title": "The Most Important Thing",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2003-07-01-the-most-important-thing.pdf?sfvrsn=91c00f65_6"
+  },
+  {
+    "date": "2003-09-05",
+    "title": "What\u2019s Your Game Plan?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2003-09-05-whats-your-game-plan.pdf?sfvrsn=7bbc0f65_6"
+  },
+  {
+    "date": "2003-10-02",
+    "title": "The Feeling's Mutual",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2003-10-02-the-feelings-mutual.pdf?sfvrsn=47bc0f65_6"
+  },
+  {
+    "date": "2004-03-16",
+    "title": "Hey, Steward!!",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2004-03-16-hey-steward!!.pdf?sfvrsn=a7bc0f65_6"
+  },
+  {
+    "date": "2004-05-07",
+    "title": "Us and Them",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2004-05-07-us-and-them.pdf?sfvrsn=bfbc0f65_6"
+  },
+  {
+    "date": "2004-07-20",
+    "title": "The Happy Medium",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2004-07-21-the-happy-medium.pdf?sfvrsn=4bbc0f65_6"
+  },
+  {
+    "date": "2004-10-06",
+    "title": "Hedge Funds: A Case for Caution",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2004-10-06-hedge-funds-a-case-for-caution.pdf?sfvrsn=57bc0f65_6"
+  },
+  {
+    "date": "2004-10-27",
+    "title": "Risk and Return Today",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2004-10-27-risk-and-return-today.pdf?sfvrsn=53bc0f65_6"
+  },
+  {
+    "date": "2005-04-11",
+    "title": "Oaktree at Ten",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2005-04-11-oaktree-at-ten.pdf?sfvrsn=5fbc0f65_6"
+  },
+  {
+    "date": "2005-05-06",
+    "title": "There They Go Again",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2005-05-06-there-they-go-again.pdf?sfvrsn=5bbc0f65_6"
+  },
+  {
+    "date": "2005-06-06",
+    "title": "A Case in Point",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2005-06-06-a-case-in-point.pdf?sfvrsn=a3bc0f65_6"
+  },
+  {
+    "date": "2005-10-17",
+    "title": "Hindsight First, Please (or, What Were They Thinking?)",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2005-10-17-hindsight-first-please-or-what-where-they-thinking.pdf?sfvrsn=93bc0f65_6"
+  },
+  {
+    "date": "2006-01-19",
+    "title": "Risk",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2006-01-19-risk.pdf?sfvrsn=afbc0f65_6"
+  },
+  {
+    "date": "2006-03-27",
+    "title": "It Is What It Is",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2006-03-27-it-is-what-it-is.pdf?sfvrsn=87bc0f65_6"
+  },
+  {
+    "date": "2006-06-13",
+    "title": "Returns, Absolute Returns and Risk",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2006-06-13-returns-absolute-returns-and-risk.pdf?sfvrsn=b7bc0f65_6"
+  },
+  {
+    "date": "2006-07-12",
+    "title": "You Can\u2019t Eat IRR",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2006-07-12-you-cant-eat-irr.pdf?sfvrsn=83bc0f65_6"
+  },
+  {
+    "date": "2006-09-07",
+    "title": "Dare to Be Great",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2006-09-07-dare-to-be-great.pdf?sfvrsn=b3bc0f65_6"
+  },
+  {
+    "date": "2006-10-19",
+    "title": "The New Paradigm",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2006-10-19-the-new-paradigm.pdf?sfvrsn=8bbc0f65_6"
+  },
+  {
+    "date": "2006-12-07",
+    "title": "Pigweed",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2006-12-07-pigweed.pdf?sfvrsn=bbbc0f65_6"
+  },
+  {
+    "date": "2007-02-14",
+    "title": "The Race to the Bottom",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2007-02-14-the-race-to-the-bottom.pdf?sfvrsn=9bbc0f65_6"
+  },
+  {
+    "date": "2007-04-26",
+    "title": "Everyone Knows",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2007-04-26-everyone-knows.pdf?sfvrsn=d3bc0f65_6"
+  },
+  {
+    "date": "2007-07-16",
+    "title": "It\u2019s All Good",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2007-07-16-its-all-good.pdf?sfvrsn=8fbc0f65_6"
+  },
+  {
+    "date": "2007-07-30",
+    "title": "It\u2019s All Good . . . Really?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2007-07-30-its-all-good-really.pdf?sfvrsn=97bc0f65_6"
+  },
+  {
+    "date": "2007-09-10",
+    "title": "Now It\u2019s All Bad?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2007-09-10-now-its-all-bad.pdf?sfvrsn=9fbc0f65_6"
+  },
+  {
+    "date": "2007-12-17",
+    "title": "No Different This Time \u2013 The Lessons of \u201807",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2007-12-17-no-different-this-time-the-lessons-of-07.pdf?sfvrsn=f3bc0f65_6"
+  },
+  {
+    "date": "2008-01-10",
+    "title": "Now What?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-01-10-now-what.pdf?sfvrsn=d7bc0f65_6"
+  },
+  {
+    "date": "2008-02-20",
+    "title": "Whodunit",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-02-20-whodunit.pdf?sfvrsn=e7bc0f65_6"
+  },
+  {
+    "date": "2008-03-18",
+    "title": "The Tide Goes Out",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-03-18-the-tide-goes-out.pdf?sfvrsn=e3bc0f65_6"
+  },
+  {
+    "date": "2008-05-16",
+    "title": "The Aviary",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-05-16-the-aviary.pdf?sfvrsn=efbc0f65_6"
+  },
+  {
+    "date": "2008-07-31",
+    "title": "Doesn\u2019t Make Sense",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-07-31-doesnt-make-sense.pdf?sfvrsn=ebbc0f65_6"
+  },
+  {
+    "date": "2008-08-28",
+    "title": "What Worries Me",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-08-28-what-worries-me.pdf?sfvrsn=f7bc0f65_6"
+  },
+  {
+    "date": "2008-09-19",
+    "title": "Nobody Knows",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-09-19-nobody-knows.pdf?sfvrsn=cbbc0f65_6"
+  },
+  {
+    "date": "2008-09-24",
+    "title": "Plan B",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-09-24-plan-b.pdf?sfvrsn=ffbc0f65_6"
+  },
+  {
+    "date": "2008-10-15",
+    "title": "The Limits to Negativism",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-10-15-the-limits-to-negativism.pdf?sfvrsn=fbbc0f65_6"
+  },
+  {
+    "date": "2008-12-17",
+    "title": "Volatility + Leverage = Dynamite",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2008-12-17-volatility-leverage-dynamite.pdf?sfvrsn=c7bc0f65_6"
+  },
+  {
+    "date": "2009-01-09",
+    "title": "The Long View",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2009-01-09-the-long-view.pdf?sfvrsn=c3bc0f65_6"
+  },
+  {
+    "date": "2009-03-05",
+    "title": "Will It Work?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2009-03-05-will-it-work.pdf?sfvrsn=dbbc0f65_8"
+  },
+  {
+    "date": "2009-07-08",
+    "title": "So Much That\u2019s False and Nutty",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2009-07-08-so-much-thats-false-nutty.pdf?sfvrsn=23bb0f65_6"
+  },
+  {
+    "date": "2009-11-10",
+    "title": "Touchstones",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2009-11-10-touchstones.pdf?sfvrsn=2fbb0f65_6"
+  },
+  {
+    "date": "2010-01-22",
+    "title": "Tell Me I\u2019m Wrong",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2010-01-22-tell-me-im-wrong.pdf?sfvrsn=2bbb0f65_6"
+  },
+  {
+    "date": "2010-03-17",
+    "title": "I\u2019d Rather Be Wrong",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2010-03-17-id-rather-be-wrong.pdf?sfvrsn=fbb0f65_6"
+  },
+  {
+    "date": "2010-05-12",
+    "title": "Warning Flags",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2010-05-12-warning-flags.pdf?sfvrsn=dfbc0f65_6"
+  },
+  {
+    "date": "2010-07-19",
+    "title": "It\u2019s Greek to Me",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2010-07-19-its-greek-to-me.pdf?sfvrsn=27bb0f65_6"
+  },
+  {
+    "date": "2010-09-10",
+    "title": "Hemlines",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2010-09-10-hemlines.pdf?sfvrsn=7bb0f65_6"
+  },
+  {
+    "date": "2010-12-01",
+    "title": "Open and Shut",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2010-12-01-open-and-shut.pdf?sfvrsn=67bb0f65_6"
+  },
+  {
+    "date": "2010-12-17",
+    "title": "All That Glitters",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2010-12-17-all-that-glitters.pdf?sfvrsn=3bb0f65_6"
+  },
+  {
+    "date": "2011-03-02",
+    "title": "On Regulation",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2011-03-02-on-regulation.pdf?sfvrsn=37bb0f65_6"
+  },
+  {
+    "date": "2011-05-25",
+    "title": "How Quickly They Forget",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2011-05-25-how-quickly-they-forget.pdf?sfvrsn=33bb0f65_6"
+  },
+  {
+    "date": "2011-07-21",
+    "title": "Down to the Wire",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2011-07-21-down-to-the-wire.pdf?sfvrsn=3fbb0f65_6"
+  },
+  {
+    "date": "2011-09-07",
+    "title": "What's Behind the Downturn?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2011-09-07-whats-behind-the-downturn.pdf?sfvrsn=13bb0f65_6"
+  },
+  {
+    "date": "2011-11-16",
+    "title": "It's All Very Taxing",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2011-11-16-its-all-very-taxing.pdf?sfvrsn=3bbb0f65_6"
+  },
+  {
+    "date": "2012-01-10",
+    "title": "What Can We Do For You?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2012-01-10-what-can-we-do-for-you.pdf?sfvrsn=7fbb0f65_8"
+  },
+  {
+    "date": "2012-02-15",
+    "title": "Assessing Performance Records A Case Study",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2012-02-15-assessing-performance-records-a-case-study.pdf?sfvrsn=6bbb0f65_6"
+  },
+  {
+    "date": "2012-03-19",
+    "title": "D\u00e9j\u00e0 Vu All Over Again",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2012-03-19-d\u00e9j\u00e0-vu-all-over-again.pdf?sfvrsn=bbb0f65_6"
+  },
+  {
+    "date": "2012-06-20",
+    "title": "It's All A Big Mistake",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2012-06-20-its-all-a-big-mistake.pdf?sfvrsn=17bb0f65_6"
+  },
+  {
+    "date": "2012-09-11",
+    "title": "On Uncertain Ground",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2012-09-11-on-uncertain-ground.pdf?sfvrsn=1fbb0f65_8"
+  },
+  {
+    "date": "2012-11-19",
+    "title": "A Fresh Start (Hopefully)",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2012-11-09-a-fresh-start-hopefully.pdf?sfvrsn=1bbb0f65_5"
+  },
+  {
+    "date": "2013-01-07",
+    "title": "Ditto",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2013-01-07-ditto.pdf?sfvrsn=73bb0f65_6"
+  },
+  {
+    "date": "2013-02-21",
+    "title": "High Yield Bonds Today",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2013-02-21-high-yield-bonds-today.pdf?sfvrsn=63bb0f65_6"
+  },
+  {
+    "date": "2013-03-13",
+    "title": "The Outlook For Equities",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2013-03-13-the-outlook-for-equities.pdf?sfvrsn=6fbb0f65_6"
+  },
+  {
+    "date": "2013-08-05",
+    "title": "The Role of Confidence",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2013-08-05-the-role-of-confidence.pdf?sfvrsn=7bbb0f65_6"
+  },
+  {
+    "date": "2013-11-26",
+    "title": "The Race Is On",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2013-11-26-the-race-is-on.pdf?sfvrsn=77bb0f65_6"
+  },
+  {
+    "date": "2014-01-16",
+    "title": "Getting Lucky",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2014-01-16-getting-lucky.pdf?sfvrsn=c4b70f65_6"
+  },
+  {
+    "date": "2014-04-08",
+    "title": "Dare to Be Great II",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2014-04-08-dare-to-be-great-ii.pdf?sfvrsn=44b60f65_6"
+  },
+  {
+    "date": "2014-09-03",
+    "title": "Risk Revisited",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2014-09-03-risk-revisited.pdf?sfvrsn=78b60f65_6"
+  },
+  {
+    "date": "2014-12-18",
+    "title": "The Lessons of Oil",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2014-12-18-the-lessons-of-oil.pdf?sfvrsn=40b60f65_6"
+  },
+  {
+    "date": "2015-03-25",
+    "title": "Liquidity",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2015-03-25-liquidity.pdf?sfvrsn=2dc70f65_6"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "Risk Revisited Again",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2015-06-08-risk-revisited-again.pdf?sfvrsn=7bb70f65_8"
+  },
+  {
+    "date": "2015-09-09",
+    "title": "It\u2019s not Easy",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2015-09-09-its-not-easy.pdf?sfvrsn=47bb0f65_7"
+  },
+  {
+    "date": "2015-10-22",
+    "title": "Inspiration from the World of Sports",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/2015-10-22-inspiration-from-the-world-of-sports.pdf?sfvrsn=aa1f0e65_7"
+  },
+  {
+    "date": "2016-01-14",
+    "title": "On the Couch",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/on-the-couch.pdf?sfvrsn=8a1e0165_7"
+  },
+  {
+    "date": "2016-01-19",
+    "title": "What Does the Market Know?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/what-does-the-market-know.pdf?sfvrsn=cb7a0165_10"
+  },
+  {
+    "date": "2016-05-26",
+    "title": "Economic Reality",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/economic-reality.pdf?sfvrsn=49bc1865_6"
+  },
+  {
+    "date": "2016-08-17",
+    "title": "Political Reality",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/political-reality.pdf?sfvrsn=39391265_2"
+  },
+  {
+    "date": "2016-11-07",
+    "title": "Implications of the Election",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/implications-of-the-election_11716.pdf?sfvrsn=1389e965_4"
+  },
+  {
+    "date": "2016-11-14",
+    "title": "Go Figure!",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/go-figure.pdf?sfvrsn=ef38e965_7"
+  },
+  {
+    "date": "2017-01-10",
+    "title": "Expert Opinion",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/expert-opinion.pdf?sfvrsn=ccffe365_4"
+  },
+  {
+    "date": "2017-04-18",
+    "title": "Lines in the Sand",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/lines-in-the-sand.pdf?sfvrsn=bf5dfa65_2"
+  },
+  {
+    "date": "2017-07-26",
+    "title": "There They Go Again... Again",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/there-they-go-again-again.pdf?sfvrsn=56d4f265_6"
+  },
+  {
+    "date": "2017-09-07",
+    "title": "Yet Again?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/yet-again.pdf?sfvrsn=3767f765_6"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "Latest Thinking",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/latest-thinking.pdf?sfvrsn=a77ccf65_2"
+  },
+  {
+    "date": "2018-06-18",
+    "title": "Investing Without People",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/investing-without-people.pdf?sfvrsn=7a5ec465_8"
+  },
+  {
+    "date": "2018-09-26",
+    "title": "The Seven Worst Words in the World",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/the-seven-worst-words-in-the-world.pdf?sfvrsn=6dc9dd65_4"
+  },
+  {
+    "date": "2019-01-30",
+    "title": "Political Reality Meets Economic Reality",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/political-reality-meets-economic-reality.pdf?sfvrsn=21c1d665_8"
+  },
+  {
+    "date": "2019-04-01",
+    "title": "Growing the Pie",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/growing-the-pie.pdf?sfvrsn=423fab65_8"
+  },
+  {
+    "date": "2019-06-12",
+    "title": "This Time It's Different",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/this-time-its-different.pdf?sfvrsn=fc19af65_10"
+  },
+  {
+    "date": "2019-07-26",
+    "title": "On the Other Hand",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/on-the-other-hand.pdf?sfvrsn=9b1a365_4"
+  },
+  {
+    "date": "2019-10-17",
+    "title": "Mysterious",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/mysterious.pdf?sfvrsn=8a30a565_12"
+  },
+  {
+    "date": "2020-01-13",
+    "title": "You Bet!",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/you-bet.pdf?sfvrsn=785dbe65_8"
+  },
+  {
+    "date": "2020-03-03",
+    "title": "Nobody Knows II",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/nobody-knows-ii.pdf?sfvrsn=108eb165_8"
+  },
+  {
+    "date": "2020-03-19",
+    "title": "Latest Update",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/weekly.pdf?sfvrsn=cbf3b065_8"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "Which Way Now?",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/which-way-now.pdf?sfvrsn=f5f4b765_8"
+  },
+  {
+    "date": "2020-04-06",
+    "title": "Calibrating",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/calibrating.pdf?sfvrsn=3e98b665_6"
+  },
+  {
+    "date": "2020-04-14",
+    "title": "Knowledge of the Future",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/knowledge-of-the-future.pdf?sfvrsn=fa39b665_6"
+  },
+  {
+    "date": "2020-05-11",
+    "title": "Uncertainty",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/uncertainty.pdf?sfvrsn=d913b465_28"
+  },
+  {
+    "date": "2020-05-28",
+    "title": "Uncertainty II",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/uncertainty-ii.pdf?sfvrsn=d48a65_8"
+  },
+  {
+    "date": "2020-06-11",
+    "title": "Not Enough",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/not-enough.pdf?sfvrsn=8f828c65_4"
+  },
+  {
+    "date": "2020-06-18",
+    "title": "The Anatomy of a Rally",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/the-anatomy-of-a-rally.pdf?sfvrsn=f5828c65_4"
+  },
+  {
+    "date": "2020-08-05",
+    "title": "Time for Thinking",
+    "url": "https://www.oaktreecapital.com/docs/default-source/memos/timeforthinking.pdf?sfvrsn=17818c65_8"
+  },
+  {
+    "date": "2020-10-13",
+    "title": "Coming into Focus",
+    "url": "https://www.oaktreecapital.com/insights/memo/coming-into-focus"
+  },
+  {
+    "date": "2021-01-11",
+    "title": "Something of Value",
+    "url": "https://www.oaktreecapital.com/insights/memo/something-of-value"
+  },
+  {
+    "date": "2021-03-04",
+    "title": "2020 in Review",
+    "url": "https://www.oaktreecapital.com/insights/memo/2020-in-review"
+  },
+  {
+    "date": "2021-07-29",
+    "title": "Thinking About Macro",
+    "url": "https://www.oaktreecapital.com/insights/memo/thinking-about-macro"
+  },
+  {
+    "date": "2021-11-23",
+    "title": "The Winds of Change",
+    "url": "https://www.oaktreecapital.com/insights/memo/the-winds-of-change"
+  },
+  {
+    "date": "2022-01-13",
+    "title": "Selling Out",
+    "url": "https://www.oaktreecapital.com/insights/memo/selling-out"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "The Pendulum in International Affairs",
+    "url": "https://www.oaktreecapital.com/insights/memo/the-pendulum-in-international-affairs"
+  },
+  {
+    "date": "2022-05-26",
+    "title": "Bull Market Rhymes",
+    "url": "https://www.oaktreecapital.com/insights/memo/bull-market-rhymes"
+  },
+  {
+    "date": "2022-06-23",
+    "title": "Conversation at Panmure House",
+    "url": "https://www.oaktreecapital.com/insights/memo/conversation-at-panmure-house"
+  },
+  {
+    "date": "2022-07-26",
+    "title": "I Beg to Differ",
+    "url": "https://www.oaktreecapital.com/insights/memo/i-beg-to-differ"
+  },
+  {
+    "date": "2022-09-08",
+    "title": "The Illusion of Knowledge",
+    "url": "https://www.oaktreecapital.com/insights/memo/the-illusion-of-knowledge"
+  },
+  {
+    "date": "2022-11-22",
+    "title": "What Really Matters?",
+    "url": "https://www.oaktreecapital.com/insights/memo/what-really-matters"
+  },
+  {
+    "date": "2022-12-13",
+    "title": "Sea Change",
+    "url": "https://www.oaktreecapital.com/insights/memo/sea-change"
+  },
+  {
+    "date": "2023-04-17",
+    "title": "Lessons from Silicon Valley Bank",
+    "url": "https://www.oaktreecapital.com/insights/memo/lessons-from-silicon-valley-bank"
+  },
+  {
+    "date": "2023-07-10",
+    "title": "Taking the Temperature",
+    "url": "https://www.oaktreecapital.com/insights/memo/taking-the-temperature"
+  },
+  {
+    "date": "2023-09-12",
+    "title": "Fewer Losers, or More Winners?",
+    "url": "https://www.oaktreecapital.com/insights/memo/fewer-losers-or-more-winners"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Further Thoughts on Sea Change",
+    "url": "https://www.oaktreecapital.com/insights/memo/further-thoughts-on-sea-change"
+  },
+  {
+    "date": "2024-01-09",
+    "title": "Easy Money",
+    "url": "https://www.oaktreecapital.com/insights/memo/easy-money"
+  },
+  {
+    "date": "2024-04-17",
+    "title": "The Indispensability of Risk",
+    "url": "https://www.oaktreecapital.com/insights/memo/the-indispensability-of-risk"
+  },
+  {
+    "date": "2024-05-08",
+    "title": "The Impact of Debt",
+    "url": "https://www.oaktreecapital.com/insights/memo/the-impact-of-debt"
+  },
+  {
+    "date": "2024-07-17",
+    "title": "The Folly of Certainty",
+    "url": "https://www.oaktreecapital.com/insights/memo/the-folly-of-certainty"
+  },
+  {
+    "date": "2024-08-22",
+    "title": "Mr. Market Miscalculates",
+    "url": "https://www.oaktreecapital.com/insights/memo/mr-market-miscalculates"
+  },
+  {
+    "date": "2024-09-19",
+    "title": "Shall We Repeal the Laws of Economics?",
+    "url": "https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics"
+  },
+  {
+    "date": "2024-10-22",
+    "title": "Ruminating on Asset Allocation",
+    "url": "https://www.oaktreecapital.com/insights/memo/ruminating-on-asset-allocation"
+  },
+  {
+    "date": "2025-01-07",
+    "title": "On Bubble Watch",
+    "url": "https://www.oaktreecapital.com/insights/memo/on-bubble-watch"
+  },
+  {
+    "date": "2025-03-06",
+    "title": "Gimme Credit",
+    "url": "https://www.oaktreecapital.com/insights/memo/gimme-credit"
+  },
+  {
+    "date": "2025-04-09",
+    "title": "Nobody Knows (Yet Again)",
+    "url": "https://www.oaktreecapital.com/insights/memo/nobody-knows-yet-again"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "More on Repealing the Laws of Economics",
+    "url": "https://www.oaktreecapital.com/insights/memo/more-on-repealing-the-laws-of-economics"
+  },
+  {
+    "date": "2025-08-14",
+    "title": "The Calculus of Value",
+    "url": "https://www.oaktreecapital.com/insights/memo/the-calculus-of-value"
+  },
+  {
+    "date": "2025-10-12",
+    "title": "The Best of . . .",
+    "url": "https://www.oaktreecapital.com/insights/memo/the-best-of"
+  },
+  {
+    "date": "2025-10-28",
+    "title": "A Look Under the Hood",
+    "url": "https://www.oaktreecapital.com/insights/memo/a-look-under-the-hood"
+  },
+  {
+    "date": "2025-11-06",
+    "title": "Cockroaches in the Coal Mine",
+    "url": "https://www.oaktreecapital.com/insights/memo/cockroaches-in-the-coal-mine"
+  },
+  {
+    "date": "2025-12-09",
+    "title": "Is It a Bubble?",
+    "url": "https://www.oaktreecapital.com/insights/memo/is-it-a-bubble"
+  },
+  {
+    "date": "2026-02-26",
+    "title": "AI Hurtles Ahead",
+    "url": "https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead"
+  },
+  {
+    "date": "2026-04-09",
+    "title": "What\u2019s Going on in Private Credit?",
+    "url": "https://www.oaktreecapital.com/insights/memo/whats-going-on-in-private-credit"
+  },
+  {
+    "date": "2026-09-22",
+    "title": "Shall We Repeal the Laws of Economics \u2013 Part III",
+    "url": "https://www.oaktreecapital.com/insights/memo/shall-we-repeal-the-laws-of-economics---part-iii"
+  },
+  {
+    "date": "2026-11-11",
+    "title": "A Layman Thinks About AI",
+    "url": "https://www.oaktreecapital.com/insights/memo/a-layman-thinks-about-ai"
+  }
+]
