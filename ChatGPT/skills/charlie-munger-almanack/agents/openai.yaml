@@ -1,0 +1,4 @@
+interface:
+  display_name: "Charlie Munger’s Almanack"
+  short_description: "Apply Munger’s mental models to decisions and investments"
+  default_prompt: "Use $charlie-munger-almanack to examine this decision, compare the best alternative, and identify what evidence would change the call."
