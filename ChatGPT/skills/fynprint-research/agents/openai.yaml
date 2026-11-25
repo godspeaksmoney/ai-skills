@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Fynprint Research"
+  short_description: "Research your Fynprint archive with page citations"
+  default_prompt: "Use $fynprint-research to answer my question from my magazine archive with issue dates and PDF page citations."

@@ -6,6 +6,7 @@ Reusable skills organized by the tool they were developed with. Each skill folde
 
 - [Berkshire Hathaway Business Analysis](ChatGPT/skills/berkshire-business-analysis) Apply the shareholder letters’ lessons about owner earnings, durable businesses, capital allocation, and valuation.
 - [Charlie Munger’s Almanack](ChatGPT/skills/charlie-munger-almanack) Apply the book’s mental models, inversion and incentive analysis to investments and difficult decisions.
+- [The Fynprint Research](ChatGPT/skills/fynprint-research) Research your own magazine archive with issue/page citations, compare editions, and study newly supplied issues.
 - [Howard Marks Research](ChatGPT/skills/howard-marks-research) Apply Oaktree’s memos to price, risk, credit, cycles, and potential permanent loss.
 - [Mauboussin Research](ChatGPT/skills/mauboussin-research) applies the author's research to business analysis, competitive advantage, capital allocation, and expectations investing. It produces a 1–100 investment score, a five-star rating, and a one-page executive summary.
 
