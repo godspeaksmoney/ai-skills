@@ -1,0 +1,45 @@
+{
+  "reviewed_on": "2026-11-17",
+  "issues": [
+    {
+      "id": "2026-04",
+      "pdf_pages": 68,
+      "notes_sha256": "abad6f2e004691151314611c1876ee4ed6e77fcdc5d7f0b9858341b32fbe0a2b"
+    },
+    {
+      "id": "2026-05",
+      "pdf_pages": 68,
+      "notes_sha256": "8626659cf1ed4b3e78942833e181280c89e1c1eeebbb8f6ebe46dd18c05092a2"
+    },
+    {
+      "id": "2026-06",
+      "pdf_pages": 70,
+      "notes_sha256": "36cf3c6eeaa3b168c51c273c5648e188d9ec5a29318402044dd47112df198b44"
+    },
+    {
+      "id": "2026-07",
+      "pdf_pages": 120,
+      "notes_sha256": "07706e7f31f7d243b5cf4414286583f2a6beaa0b9244da9ef642a545a8a23d78"
+    },
+    {
+      "id": "2026-08",
+      "pdf_pages": 68,
+      "notes_sha256": "1710274270a8e051da9f06e261972c61f38aa9b71ffeb18ab71818af34c34b4b"
+    },
+    {
+      "id": "2026-09",
+      "pdf_pages": 62,
+      "notes_sha256": "5fd39719ce9012bf0e0dfafd10a30c9e0c138a60d368cd8117d8849fd02d0bc2"
+    },
+    {
+      "id": "2026-10",
+      "pdf_pages": 66,
+      "notes_sha256": "11f9d4aafb4383ed3148808c77647655482b28364bca71b07c16fc94b7e16cd1"
+    },
+    {
+      "id": "2026-11",
+      "pdf_pages": 66,
+      "notes_sha256": "c9ce89e61170817509d4c282363ecc2a220b5df8014aa4012d40eddc35afb423"
+    }
+  ]
+}

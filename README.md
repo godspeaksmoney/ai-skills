@@ -4,6 +4,7 @@ Reusable skills organized by the tool they were developed with. Each skill folde
 
 ## ChatGPT
 
+- [Wealth Insight Research](ChatGPT/skills/wealth-insight-research) Research your magazine archive with issue and PDF-page citations, compare editions, and study new issues.
 - [Berkshire Hathaway Business Analysis](ChatGPT/skills/berkshire-business-analysis) Apply the shareholder letters’ lessons about owner earnings, durable businesses, capital allocation, and valuation.
 - [Charlie Munger’s Almanack](ChatGPT/skills/charlie-munger-almanack) Apply the book’s mental models, inversion and incentive analysis to investments and difficult decisions.
 - [The Fynprint Research](ChatGPT/skills/fynprint-research) Research your own magazine archive with issue/page citations, compare editions, and study newly supplied issues.
