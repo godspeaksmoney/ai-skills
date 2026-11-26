@@ -18,6 +18,8 @@ Keep your magazine archive and notes in a location Codex can access. Tell it whe
 
 See the [intake procedure](references/intake.md) for complete-page review, durable progress records and retry verification. Scheduling and private Site connections require configuration for your own environment; installing the skill does not create either.
 
+Maintainers can also use the intake procedure to keep an authorized public workflow edition current. It separates reusable instruction changes from private issue knowledge and records either a verified publication or a verified no-change check.
+
 ## Attribution and reuse
 
 An independent research workflow for readers of [The Fynprint](https://thefynprint.com/). It is not affiliated with or endorsed by the publisher. Magazine text, artwork and other publisher materials belong to their respective rights holders.

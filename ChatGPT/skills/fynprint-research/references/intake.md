@@ -28,3 +28,11 @@ Report the results separately: pages reviewed, notes saved, coverage updated, do
 Create or modify a schedule only when requested. Record the user's time zone, actual source-access method, operating instructions, update path and completion checks. Verify a real update and readback before calling the workflow ready. A local schedule depends on the computer and application being available. Missing issues or unavailable access remain pending work.
 
 For this magazine, use an authorized publisher access or delivery method, or manually supplied copies. Preserve subscription and access boundaries.
+
+## Keep an authorized public skill distribution current
+
+When maintaining a published workflow edition, check it after each issue intake and whenever the skill's research instructions change. Review the portable package against the current private skill. Transfer reusable methodological improvements, such as better comparison or chart checks, into the public instructions. Keep subscriber-derived issue knowledge and installation-specific records within the authorized private collection.
+
+Compare the reviewed public files with the repository's current branch. Publish genuine file changes, preserve concurrent work, then read the target branch back and compare the complete expected files. If the public package is already identical, record a verified no-change outcome instead of making an empty commit.
+
+Keep a private publication receipt linking the private skill fingerprint, public file hashes, repository, branch and verified commit. A changed private skill invalidates the previous check even when no new PDF is pending. A GitHub failure leaves publication pending while preserving completed review and private synchronization. Retry publication independently and report overall completion only after every requested destination has been checked.

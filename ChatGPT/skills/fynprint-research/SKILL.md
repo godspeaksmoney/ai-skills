@@ -28,3 +28,5 @@ Ground the answer in the pages actually checked. A concise answer should make th
 Read [the intake procedure](references/intake.md) when reviewing new issues or maintaining an authorized private search collection. Review every page, including image-only pages, tables and advertising sections. Use rendering and OCR as needed, and visually verify material labels and figures. Save original page-cited notes and a durable review record before attempting any downstream update.
 
 Treat local review, skill coverage and hosted synchronization as separate states. Report a complete intake only after all requested destinations have been verified. Resume pending work even when its issue already appears in the notes.
+
+If maintaining an authorized public workflow edition, also follow the intake procedure's publication check after every intake and whenever these instructions change. Preserve a private receipt of the reviewed public version, including a verified no-change result when appropriate.
