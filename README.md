@@ -4,6 +4,7 @@ Reusable skills organized by the tool they were developed with. Each skill folde
 
 ## ChatGPT
 
+- [Mutual Fund Insight Research](ChatGPT/skills/mutual-fund-insight-research) researches a user-supplied magazine archive with PDF page citations, reusable investment-research principles, and a complete-issue intake procedure.
 - [Wealth Insight Research](ChatGPT/skills/wealth-insight-research) Research your magazine archive with issue and PDF-page citations, compare editions, and study new issues.
 - [Berkshire Hathaway Business Analysis](ChatGPT/skills/berkshire-business-analysis) Apply the shareholder letters’ lessons about owner earnings, durable businesses, capital allocation, and valuation.
 - [Charlie Munger’s Almanack](ChatGPT/skills/charlie-munger-almanack) Apply the book’s mental models, inversion and incentive analysis to investments and difficult decisions.

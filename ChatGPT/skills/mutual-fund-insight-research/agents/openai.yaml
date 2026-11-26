@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mutual Fund Insight Research"
+  short_description: "Research the magazine archive with page citations"
+  default_prompt: "Use $mutual-fund-insight-research to answer my investment question with issue and PDF page citations."

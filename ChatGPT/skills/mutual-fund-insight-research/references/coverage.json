@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "source_as_of": "2026-11-18",
+  "total_issues": 8,
+  "total_pdf_pages": 1126,
+  "total_covered_pages": 1126,
+  "issues": [
+    {
+      "id": "2026-04",
+      "pdf_pages": 128,
+      "covered_pages": 128,
+      "notes_revision_sha256": "69c070cbf26e17af44bf43c1559efdd9f019ca31048ca6ec402db31ef4e0e90f"
+    },
+    {
+      "id": "2026-05",
+      "pdf_pages": 120,
+      "covered_pages": 120,
+      "notes_revision_sha256": "4ab74612a22900bc17c55056dbc0e7326339d1b2eaa932cce640a8a249618734"
+    },
+    {
+      "id": "2026-06",
+      "pdf_pages": 148,
+      "covered_pages": 148,
+      "notes_revision_sha256": "6e188049b232042450ac884380fe53ba234fd0503c596884cd6a29a7bd653de2"
+    },
+    {
+      "id": "2026-07",
+      "pdf_pages": 142,
+      "covered_pages": 142,
+      "notes_revision_sha256": "55d8ed0093abf8dc0ad35c6d6cf19946289d20ef3e4d8d11fae258330ba8f960"
+    },
+    {
+      "id": "2026-08",
+      "pdf_pages": 112,
+      "covered_pages": 112,
+      "notes_revision_sha256": "d4838cf03049ae48615dc24001fc2eedcb3e68f1f94070e517b384b6360f8566"
+    },
+    {
+      "id": "2026-09",
+      "pdf_pages": 122,
+      "covered_pages": 122,
+      "notes_revision_sha256": "52d13ba8bcee8d02240b89c77bdf791e6f833a2a7f7a40e70f8477c7f0bf27cf"
+    },
+    {
+      "id": "2026-10",
+      "pdf_pages": 128,
+      "covered_pages": 128,
+      "notes_revision_sha256": "bdaf11864d253dea3943d9433543c2d592f82ab778c42e7bd24f759d860a406a"
+    },
+    {
+      "id": "2026-11",
+      "pdf_pages": 226,
+      "covered_pages": 226,
+      "notes_revision_sha256": "0471b9737cb771715215c7baeec91ca93c2b7b197d5866e3ff0a79b93cf8d7f8"
+    }
+  ],
+  "source_revisions_sha256": {
+    "LICENSE": "3830c49b768df2075896f495dd72e39f9f95b88a964bffcdddcc4e8c17309d0e",
+    "README.md": "4cb099b45cde0338931af7d885234a8424da5624a793fa10d8293acc766839c6",
+    "SKILL.md": "c7e1cbb217400c8f7e7df6dc74a053b0289185d69e99e6daa42729c0f3f5f3db",
+    "agents/openai.yaml": "03993abea436057c4930299e073c130e325afb182b356cc4da855f90bbd8d910",
+    "references/intake.md": "dad8886948ecd27192366ea50ad50410849adaa3a5ff8f4a70695e794d928806",
+    "references/project-workflow.md": "31e1dd1c09d97f781b3d27b5ec1efa3b5081196e20951e6cebf70ee2981b941a",
+    "references/research-principles.md": "219a238a98b3e3494f3edf267cf2b82839320ba25ffe27a3031d97cd1afdbdae"
+  },
+  "research_revisions_sha256": {
+    "INDEX.md": "ca08d2e20a007e65736f5b6bc95d9f0c7f66c1ca42e7d5ddd6f295adcd7d6700",
+    "KNOWLEDGE.md": "55a018a3c0debcc3c5100077bcd1cc0dd2e46054b31c7a183b595b112a980983",
+    "scripts/build-manifest.mjs": "b727bc308c123a0154300ae2673366e6e977b3efffb2fed46f57f81592793f6e",
+    "scripts/check-archive.mjs": "ff00dec1502ef20da1c0592858bcce9c0e8c7a72424c067c15770c5d8a5683de",
+    "scripts/scan-new-issues.mjs": "9d9e63ad6e8319cc89cfb88c71991c9502db4c56784fd02cba8b1b8518a2528c"
+  }
+}
